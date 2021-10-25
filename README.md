@@ -1,2 +1,2 @@
-# pokebot
-Brute-forcing (or not!) TCG deck builder.
+# PokeBot Deck Builder
+Brute-forcing (or not!) deck builder for Pokemon Trading Card Game.
