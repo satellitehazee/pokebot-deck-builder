@@ -1,0 +1,157 @@
+4 Spiritomb#sm10-112
+4 Jirachi#sm9-99
+2 Jynx#sm11-76
+1 Buzzwole#sm6-77
+1 Galarian Zigzagoon#swsh1-117
+1 Giratina#sm11-86
+1 Mewtwo#sm10-75
+1 Mew#sm10-76
+1 Dedenne-GX#sm10-57
+1 Oricorio-GX#sm12-95
+1 Yveltal-GX#sm6-79
+
+4 Spiritomb#sm10-112
+4 Jirachi#sm9-99
+2 Jynx#sm11-76
+2 Galarian Zigzagoon#swsh1-117
+1 Buzzwole#sm6-77
+1 Giratina#sm11-86
+1 Mew#sm10-76
+1 Cryogonal#sm11-46
+1 Dedenne-GX#sm10-57
+1 Oricorio-GX#sm12-95
+1 Yveltal-GX#sm6-79
+
+4 Zacian V#swsh1-138
+3 Jirachi#sm9-99
+2 Oranguru#swsh1-148
+2 Mr.Mime#det1-11
+1 Jirachi#sm7-97
+1 Zamazenta V#swsh1-139
+1 Dusk Mane Necrozma#smp-SM107
+1 Dedenne-GX#sm10-57
+
+2 Pikachu & Zekrom-GX#sm9-33
+2 Boltund V#swsh2-67
+1 Raichu & Alolan Raichu-GX#sm11-54
+3 Dedenne-GX#sm10-57
+1 Zeraora-GX#sm8-86
+1 Tapu Koko ♢#sm9-51
+1 Mew#sm10-76
+1 Marshadow#sm10-81
+1 Eldegoss V#swsh2-19
+
+3 Zacian V#swsh1-138
+2 Arceus Dialga Palkia-GX#sm12-156
+2 Dedenne#sm10-57
+1 Zamazenta V#swsh1-139
+1 Oranguru#swsh1-148
+1 Eldegoss V#swsh2-19
+
+3 Zacian V#swsh1-138
+3 Jirachi#sm9-99
+1 Lucario & Melmetal-GX#sm10-120
+1 Dusk Mane Necrozma#smp-SM107
+1 Oranguru#swsh1-148
+1 Aipom#smp-SM244
+1 Mew#sm10-76
+1 Eldegoss V#swsh2-19
+
+4 Zacian V#swsh1-139
+3 Jirachi#sm9-99
+2 Oranguru#swsh1-148
+1 Mr. Mime#det1-11
+1 Jirachi ♢#sm7-97
+1 Hoopa#sm11-140
+1 Galarian Zigzagoon#swsh1-117
+1 Mew#sm10-76
+1 Dedenne-GX#sm10-57
+
+4 Jirachi#sm9-99
+3 Dragapult V#swsh2-92
+3 Dragapult VMAX#swsh2-93
+1 Gengar & Mimikyu-GX#sm9-53
+1 Dedenne-GX#sm10-57
+1 Galarian Zigzagoon#swsh1-117 
+1 Giratina#sm8-97
+1 Mew#sm10-76
+1 Mewtwo#sm10-75
+1 Phione#sm12-57
+
+4 Blacephalon#sm10-32
+4 Jirachi#sm9-99
+1 Cramorant V#swsh1-155
+1 Blacephalon-GX#sm8-52
+1 Dedenne-GX#sm10-57
+1 Zacian V#swsh1-138
+1 Mew#sm10-76
+1 Oricorio-GX#sm12-95
+1 Tapu Fini#sm11-53
+
+3 Dragapult V#swsh2-92
+3 Dragapult VMAX#swsh2-93
+3 Jirachi#sm9-99
+1 Oranguru#swsh1-148
+1 Galarian Zigzagoon#swsh1-117
+1 Giratina#sm11-86
+1 Mewtwo#sm10-75
+1 Mew#sm10-76
+1 Dedenne-GX#sm10-57
+
+4 Spiritomb#sm10-112
+4 Jirachi#sm9-99
+2 Jynx#sm11-76
+1 Buzzwole#sm6-77
+1 Mew#sm10-76
+1 Blacephalon-GX#sm8-52
+1 Dedenne-GX#sm10-57
+
+4 Jirachi#sm9-99
+3 Blacephalon#sm10-32
+1 Blacephalon-GX#sm8-52
+1 Cramorant V#swsh1-155
+1 Zacian V#swsh1-138
+1 Oricorio-GX#sm12-95
+1 Dedenne-GX#sm10-57
+1 Mewtwo#sm10-75
+1 Mew#sm10-76
+1 Oranguru#swsh1-148
+1 Tapu fini#sm11-53
+1 Galarian Zigzagoon#swsh1-117
+
+2 Pikachu & Zekrom-GX#sm9-33
+2 Boltund V#swsh2-67
+2 Raichu & Alolan Raichu-GX#sm11-54
+3 Dedenne-GX#sm10-57
+1 Zeraora-GX#sm8-86
+1 Tapu Koko ♢#sm9-51
+1 Marshadow#sm10-81
+1 Eldegoss V#swsh2-19
+
+3 Dragapult V#swsh2-92
+3 Dragapult VMAX#swsh2-93
+3 Jirachi#sm9-99
+1 Galarian Zigzagoon#swsh1-117
+1 Mewtwo#sm10-75
+1 Mew#sm10-76
+1 Giratina#sm11-86
+1 Giratina#sm8-97
+1 Dedenne-GX#sm10-57
+
+2 Pikachu & Zekrom-GX#sm9-33
+2 Boltund V#swsh2-67
+1 Raichu & Alolan Raichu-GX#sm11-54
+3 Dedenne-GX#sm10-57
+1 Zeraora-GX#sm8-86
+1 Tapu Koko ♢#sm9-51
+1 Marshadow#sm10-81
+1 Eldegoss V#swsh2-19
+
+4 Minccino#swsh1-145
+4 Cinccino#swsh1-147
+4 Jirachi#sm9-99
+3 Zacian V#swsh1-138
+2 Oranguru#sm5-114
+2 Articuno-GX#sm7-31
+1 Girafarig#sm8-94
+

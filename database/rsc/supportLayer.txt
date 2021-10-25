@@ -1,0 +1,26 @@
+det1-11 Mr. Mime
+sm10-57 Dedenne-GX
+sm10-75 Mewtwo
+sm10-76 Mew
+sm10-81 Marshadow
+sm11-127 Alolan Grimer
+sm12-57 Phione
+sm11-86 Giratina
+sm5-114 Oranguru
+sm8-154 Ditto PRISM
+sm9-100 Bronzor
+sm9-101 Bronzong
+sm11-127 Alolan Grimer
+sm9-84 Alolan Muk
+sm9-88 Absol
+sm9-99 Jirachi
+swsh1-117 Galarian Zigzagoon
+swsh1-119 Galarian Obstagoon
+swsh1-148 Oranguru
+swsh1-22 Vulpix
+sm8-94 Girafarig
+swsh2-19 Eldegoss V
+swsh3-104 Crobat V
+swsh1-138 Zacian V
+swsh1-139 Zamazenta V
+swsh1-155 Cramorant V

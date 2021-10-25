@@ -1,0 +1,23 @@
+4 sm10-32#Blacephalon
+4 sm9-99#Jirachi
+2 sm10-57#Dedenne-GX
+1 swsh2-19#Eldegoss V
+1 swsh1-25#Victini V
+1 sm8-52#Blacephalon-GX
+1 sm12-95#Oricorio-GX
+1 swsh1-155#Cramorant V
+1 sm10-75#Mewtwo
+4 sm10-189#Welder
+1 swsh2-154#Boss's Orders (Giovanni)
+4 swsh1-179#Quick Ball
+4 sm10-173#Fire Crystal
+4 sm75-60#Fiery Flint
+4 swsh1-183#Switch
+3 swsh2-165#Scoop Up Net
+2 swsh1-175#Pokemon Catcher
+1 swsh1-171#Ordinary Rod
+1 swsh1-172#Pal Pad
+1 sm11-206#Reset Stamp
+2 sm11-197#Giant Hearth
+1 sm8-178#Heat Factory PRISM STAR
+12 sm1-165#Fire Energy
