@@ -7,7 +7,7 @@ Brute-forcing (or not!) deck builder for Pokemon Trading Card Game.
 # Credits
 
 Made to accomplish our team's semester project.
-*we didn't understand git back then, so umm..
+*we didn't understand git back then, so umm...
 
 
 Contributor:
