@@ -7,7 +7,7 @@ AI Project (basically brute-forcing our way through) deck builder for Pokemon Tr
 # Credits
 
 This project's purpose was to fulfill a project assignment for AI class.
-*we didn't understand git not AI back then, so please don't expect much
+*we didn't understand git nor AI back then, so please don't expect much
 
 
 Contributor:
